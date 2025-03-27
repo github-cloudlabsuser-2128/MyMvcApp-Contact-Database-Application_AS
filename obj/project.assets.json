@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Database-ApplicationAS\\MyMvcApp.csproj",
+      "projectUniqueName": "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Database-Application_AS\\MyMvcApp.csproj",
       "projectName": "MyMvcApp",
-      "projectPath": "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Database-ApplicationAS\\MyMvcApp.csproj",
+      "projectPath": "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Database-Application_AS\\MyMvcApp.csproj",
       "packagesPath": "C:\\Users\\azureuser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Database-ApplicationAS\\obj\\",
+      "outputPath": "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp-Contact-Database-Application_AS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\azureuser\\AppData\\Roaming\\NuGet\\NuGet.Config"
